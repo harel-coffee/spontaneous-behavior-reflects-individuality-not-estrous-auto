@@ -1,6 +1,6 @@
 # Mouse spontaneous behavior reflects individual variation rather than estrous state
 
-(https://doi.org/10.5281/zenodo.7622958)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7622958.svg)](https://doi.org/10.5281/zenodo.7622958)
 
 
 ## Authors
