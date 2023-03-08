@@ -21,7 +21,7 @@ Dana Rubi Levy<sup>1</sup>, Nigel Hunter<sup>1</sup>, Sherry Lin<sup>1</sup>, Em
 The repository holds scripts used for data analysis for the publication: Mouse spontaneous behavior reflects individual variation rather than estrous state found here:
 https://doi.org/10.1016/j.cub.2023.02.035
 
-Scripts are run in Jupyter Notebook and are organized by the corresponding figure panels. Default packages installed with Miniconda should account for the requirements of nearly all scripts in this repository.
+Scripts are run in Jupyter Notebook and are organized by the corresponding figure panels. 
 
 Notebooks for FigS2A and S2F require the installation of the MoSeq app (available for free academic use here: https://dattalab.github.io/moseq2-website/index.html).
 
